@@ -1,5 +1,12 @@
-file from remote added by sltext kjumbled ave more text added by sl ajdahj ad what did we do ave slave wins the race 
-more text by feature branch  
+$ git rebase –continue
+This command will
 
+Forward-port local commits to the updated upstream HEAD.
 
-second line of testby feature to test merge tol adjf o
+according to the documentation, meaning your local commits will be pushed to the upstream remote branch as a new forward commit that doesn't interfere with previous commits. Hooray now you can claim that you can collaborate with others with Git without messing up with your collaborators' commits.
+
+back to top
+
+Other vimdiff keyboard shortcuts
+]c - Jump to the next change.
+[c - Jump to the previous change.
